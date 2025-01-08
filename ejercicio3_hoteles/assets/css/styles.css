@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Lucida Sans';
+  src: url('../fonts/Lucida/LSANS.TTF') format('truetype');
+}
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: #B73994;
+  font-size: 60px;
+  text-align: center;
+  font-weight: lighter;
+  letter-spacing: 7px;
+}
+
+h2 {
+  color: #B73994;
+  letter-spacing: 10px;
+  font-weight: lighter;
+}
+
+span {
+  color: #1F5590;
+}
+
+footer img {
+  width: 100%;
+  margin-top: 22px;
+}
+
+div img {
+  height: 260px;
+  padding-bottom: 8px;
+}
+
+div img.image-right-float {
+  float: right;
+  margin-left: 16px;
+}
+
+div img.image-left-float {
+  float: left;
+  margin-right: 16px;
+}
+
+.logo-disney-hotels {
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+}
+
