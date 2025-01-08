@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Franklin_gothic';
+    src: url('../fonts/Franklin_gothic/framd.ttf') format('truetype');
+}
+
+body { 
+    background-color:rgb(27, 150, 133);
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(226, 226, 45);
+    text-align: center;
+    padding: 0.2em;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    border: 7px solid white;
+}
