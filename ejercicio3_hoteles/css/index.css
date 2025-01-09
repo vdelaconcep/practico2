@@ -21,8 +21,9 @@ h2 {
   font-weight: lighter;
 }
 
-span {
+p {
   color: #1F5590;
+  margin-bottom: 1em;
 }
 
 footer img {
@@ -30,17 +31,17 @@ footer img {
   margin-top: 22px;
 }
 
-div img {
+main img {
   height: 260px;
   padding-bottom: 8px;
 }
 
-div img.image-right-float {
+main img.image-right-float {
   float: right;
   margin-left: 16px;
 }
 
-div img.image-left-float {
+main img.image-left-float {
   float: left;
   margin-right: 16px;
 }
