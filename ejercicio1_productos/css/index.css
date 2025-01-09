@@ -13,7 +13,7 @@
   src: url('../fonts/Arial/arial.TTF') format('truetype');
 }
 
-html {
+body {
   background-color: #273238;
 }
 
@@ -29,11 +29,13 @@ h2 {
   text-transform: uppercase;
   font-family: "Arial", "Gadget", sans-serif;
   font-style: italic;
+  font-weight: 900;
 }
 
 p {
   color: white;
   font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  margin-bottom: 1em;
 }
 
 img {

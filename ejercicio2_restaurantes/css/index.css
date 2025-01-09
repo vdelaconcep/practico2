@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Franklin Gothic Medium';
-    src: url('../fonts/Franklin_gothic/framd.ttf') format('truetype');
+    src: url('../assets/fonts/Franklin_gothic/framd.ttf') format('truetype');
 }
 
 body { 
@@ -14,7 +14,7 @@ h1 {
     padding: 0.2em;
 }
 
-div {
+main {
     text-align: center;
 }
 
